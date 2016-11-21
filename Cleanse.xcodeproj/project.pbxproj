@@ -676,6 +676,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_REFLECTION_METADATA_LEVEL = none;
 			};
 			name = Debug;
 		};
@@ -696,6 +697,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.squareup.Cleanse;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_REFLECTION_METADATA_LEVEL = none;
 			};
 			name = Release;
 		};
